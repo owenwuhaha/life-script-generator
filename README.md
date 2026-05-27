@@ -11,7 +11,9 @@
 
 **大多数人需要的不是动力，而是一套系统。** — Dan Koe
 
-[功能特性](#-功能特性) · [快速开始](#-快速开始) · [项目结构](#-项目结构) · [技术架构](#-技术架构) · [部署指南](#-部署指南)
+[功能特性](#features) · [快速开始](#quick-start) · [项目结构](#project-structure) · [技术架构](#tech-architecture) · [部署指南](#deployment)
+
+[🇬🇧 English Version](README_EN.md)
 
 </div>
 
@@ -33,6 +35,31 @@
 
 ---
 
+## 📱 项目截图
+
+<div align="center">
+
+| 登录 & 引导 | AI 诊断 | 诊断结果 |
+|:---:|:---:|:---:|
+| ![登录页](https://github.com/owenwuhaha/life-script-generator/blob/main/1.jpg) | ![诊断](https://github.com/owenwuhaha/life-script-generator/blob/main/2.jpg) | ![诊断结果](https://github.com/owenwuhaha/life-script-generator/blob/main/3.jpg) |
+
+| MBTI 测试 | 行动超市 | 模式选择 |
+|:---:|:---:|:---:|
+| ![MBTI](https://github.com/owenwuhaha/life-script-generator/blob/main/4.jpg) | ![行动超市](https://github.com/owenwuhaha/life-script-generator/blob/main/5.jpg) | ![模式选择](https://github.com/owenwuhaha/life-script-generator/blob/main/6.jpg) |
+
+| 计划预览 | 每日打卡 | 身份进化 |
+|:---:|:---:|:---:|
+| ![计划预览](https://github.com/owenwuhaha/life-script-generator/blob/main/7.jpg) | ![打卡日历](https://github.com/owenwuhaha/life-script-generator/blob/main/8.jpg) | ![进化](https://github.com/owenwuhaha/life-script-generator/blob/main/9.jpg) |
+
+| 智能互动 | 我的页面 |
+|:---:|:---:|
+| ![互动](https://github.com/owenwuhaha/life-script-generator/blob/main/10.jpg) | ![我的](https://github.com/owenwuhaha/life-script-generator/blob/main/11.jpg) |
+
+</div>
+
+---
+
+<a id="features"></a>
 ## ✨ 功能特性
 
 ### 🎮 核心流程
@@ -70,6 +97,7 @@
 
 ---
 
+<a id="quick-start"></a>
 ## 🚀 快速开始
 
 ### 前置条件
@@ -107,6 +135,7 @@ var MOCK_MODE = true;  // 改为 true 即可本地体验，无需云开发环境
 
 ---
 
+<a id="project-structure"></a>
 ## 📁 项目结构
 
 ```
@@ -212,6 +241,7 @@ life-script-generator/
 
 ---
 
+<a id="tech-architecture"></a>
 ## 🏗️ 技术架构
 
 ### 技术栈
@@ -310,6 +340,7 @@ life-script-generator/
 
 ---
 
+<a id="deployment"></a>
 ## 🚢 部署指南
 
 ### 1. 云开发环境配置
