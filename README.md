@@ -39,6 +39,18 @@
 
 <div align="center">
 
+### 🔍 扫码立即体验
+
+| 微信小程序码 |
+|:---:|
+| ![小程序码](https://github.com/owenwuhaha/life-script-generator/blob/main/gh_b13e706fa073_258.jpg) |
+
+微信搜索「**重启人生**」或扫码即刻开始你的第 1 次重启
+
+</div>
+
+<div align="center">
+
 | 登录 & 引导 | AI 诊断 | 诊断结果 |
 |:---:|:---:|:---:|
 | ![登录页](https://github.com/owenwuhaha/life-script-generator/blob/main/1.jpg) | ![诊断](https://github.com/owenwuhaha/life-script-generator/blob/main/2.jpg) | ![诊断结果](https://github.com/owenwuhaha/life-script-generator/blob/main/3.jpg) |
@@ -552,6 +564,22 @@ chore:    构建工具/辅助工具变更
 ## 📄 License
 
 本项目基于 [MIT License](https://opensource.org/licenses/MIT) 开源。
+
+---
+
+## ☕ 赞赏支持
+
+如果这个小程序对你有所帮助，欢迎请作者喝杯咖啡 ☕
+
+<div align="center">
+
+| 微信赞赏 | 支付宝赞赏 |
+|:---:|:---:|
+| ![微信](https://github.com/owenwuhaha/life-script-generator/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260520093343_5_13.png) | ![支付宝](https://github.com/owenwuhaha/life-script-generator/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260520093414_6_13.jpg) |
+
+**你的支持是持续迭代的动力 ❤️**
+
+</div>
 
 ---
 

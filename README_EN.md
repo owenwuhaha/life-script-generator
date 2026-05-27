@@ -11,7 +11,9 @@
 
 **Most people don't need more motivation — they need a system.** — Dan Koe
 
-[Features](#-features) · [Quick Start](#-quick-start) · [Project Structure](#-project-structure) · [Tech Architecture](#-tech-architecture) · [Deployment](#-deployment-guide)
+[Features](#features) · [Quick Start](#quick-start) · [Project Structure](#project-structure) · [Tech Architecture](#tech-architecture) · [Deployment](#deployment-guide)
+
+[🇨🇳 中文版](README.md)
 
 </div>
 
@@ -33,6 +35,43 @@
 
 ---
 
+## 📱 Screenshots
+
+<div align="center">
+
+### 🔍 Scan to Try Now
+
+| Mini Program QR Code |
+|:---:|
+| ![QR Code](https://github.com/owenwuhaha/life-script-generator/blob/main/gh_b13e706fa073_258.jpg) |
+
+Search WeChat for「**重启人生**」or scan the QR code to start your first reset
+
+</div>
+
+<div align="center">
+
+| Login & Onboarding | AI Diagnosis | Diagnosis Result |
+|:---:|:---:|:---:|
+| ![Login](https://github.com/owenwuhaha/life-script-generator/blob/main/1.jpg) | ![Diagnosis](https://github.com/owenwuhaha/life-script-generator/blob/main/2.jpg) | ![Result](https://github.com/owenwuhaha/life-script-generator/blob/main/3.jpg) |
+
+| MBTI Test | Action Shop | Mode Select |
+|:---:|:---:|:---:|
+| ![MBTI](https://github.com/owenwuhaha/life-script-generator/blob/main/4.jpg) | ![Action Shop](https://github.com/owenwuhaha/life-script-generator/blob/main/5.jpg) | ![Mode](https://github.com/owenwuhaha/life-script-generator/blob/main/6.jpg) |
+
+| Plan Preview | Daily Check-in | Identity Evolution |
+|:---:|:---:|:---:|
+| ![Plan](https://github.com/owenwuhaha/life-script-generator/blob/main/7.jpg) | ![Calendar](https://github.com/owenwuhaha/life-script-generator/blob/main/8.jpg) | ![Evolution](https://github.com/owenwuhaha/life-script-generator/blob/main/9.jpg) |
+
+| Smart Interaction | Profile |
+|:---:|:---:|
+| ![Interaction](https://github.com/owenwuhaha/life-script-generator/blob/main/10.jpg) | ![Profile](https://github.com/owenwuhaha/life-script-generator/blob/main/11.jpg) |
+
+</div>
+
+---
+
+<a id="features"></a>
 ## ✨ Features
 
 ### 🎮 Core Flow
@@ -70,6 +109,7 @@ Login → Onboarding → AI 5-Stage Diagnosis → Diagnostic Results → MBTI Te
 
 ---
 
+<a id="quick-start"></a>
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -107,6 +147,7 @@ var MOCK_MODE = true;  // Set to true for local preview, no cloud environment ne
 
 ---
 
+<a id="project-structure"></a>
 ## 📁 Project Structure
 
 ```
@@ -213,6 +254,7 @@ life-script-generator/
 
 ---
 
+<a id="tech-architecture"></a>
 ## 🏗️ Tech Architecture
 
 ### Tech Stack
@@ -311,6 +353,7 @@ A dark-themed design language for Gen Z aesthetics, blending cyberpunk neon + gl
 
 ---
 
+<a id="deployment-guide"></a>
 ## 🚢 Deployment Guide
 
 ### 1. Cloud Base Environment Setup
@@ -522,6 +565,22 @@ chore:    Build tools / auxiliary changes
 ## 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+## ☕ Buy Me a Coffee
+
+If this mini program has helped you, feel free to buy the author a coffee ☕
+
+<div align="center">
+
+| WeChat Pay | Alipay |
+|:---:|:---:|
+| ![WeChat](https://github.com/owenwuhaha/life-script-generator/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260520093343_5_13.png) | ![Alipay](https://github.com/owenwuhaha/life-script-generator/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260520093414_6_13.jpg) |
+
+**Your support keeps us iterating ❤️**
+
+</div>
 
 ---
 
